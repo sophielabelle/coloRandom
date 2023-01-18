@@ -11,6 +11,7 @@ ColoRandom is an application that allows the user to generate new, random color 
 1. In your terminal, use the command `git clone git@github.com:[the link to your repo]`.
 1. Open the repo in your text editor to make any changes or inspect code.
 1. Use `open index.html` to open the app in your browser.
+1. You can find the deployed site [here](https://sophielabelle.github.io/coloRandom/).
 
 ## App Preview
 [//]: <>
